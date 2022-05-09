@@ -58,21 +58,31 @@ Mete, aynı zamanda çok iyi bir okçudur, buna güvenir ve yola çıkar.
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats] https://docs.google.com/spreadsheets/d/1eOQ0veE75RmbI6FUtaQ_B-5pbotKHnJDzyk09ecIYJg/edit?usp=sharing
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](<img width="1141" alt="image" src="https://user-images.githubusercontent.com/65123012/166911278-768df01e-a50a-402d-abb3-ecdf0f2eb58a.png">) 
-![Backlog 2](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog2.png) 
-![Backlog 3](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog3.png)
+Backlog 1: https://prnt.sc/-m8BAhFE6TVP
+![Backlog 1](https://github.com/onurcancansu/Googled-app-yatch-club---BOOTCAMP/blob/main/Screenshot%20at%20May%2009%2022-53-45.png) 
+
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss1.png?raw=true)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss2.png?raw=true)
+  ![Screenshot 1](https://github.com/onurcancansu/Googled-app-yatch-club---BOOTCAMP/blob/main/kum.png)
+  ![Screenshot 2](https://github.com/onurcancansu/Googled-app-yatch-club---BOOTCAMP/blob/main/metevebabas%C4%B1.png)
+  ![Screenshot 3](https://github.com/onurcancansu/Googled-app-yatch-club---BOOTCAMP/blob/main/metekorsanlar.png)
+
 
 - **Sprint Review**: 
-Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
+Alınan kararlar: Tasarım ve kodlama taskları tamamlandı. Tasarım ve kodun önümüzdeki sprintte birleştirilmesine karar verildi.Sprint Review katılımcıları: Tüm ekip
 
 - **Sprint Retrospective:**
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
-  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Unit test'ler için ayrılan efor/saat arttırılmalı 
+  - **Neyi iyi yaptık?**
+  -   Karakterin kemik yapısı işlerimizi kolaylaştırdı
+  -   Verilen görevler tamamlandı
+  -   Uyumlu, iletişimi kuvvetli bir ekibiz.
+  - **Gelişim Noktaları**
+  -   Tasarımları 1-2 gün öncesinden bitirmek ve kodlama için ekibe aktarmak lazımdı. Bayramdan kaynaklı uzadı. 
+  -   Toplantılar konusunda iletişim kopuklukları yaşadığımız zamanlar oldu.
+  -   Daily'leri aksattığımız zamanlar oldu.
+  -   Joystick’i zaman sebebiyle bitiremedik.
+  -   Buton konusunda ekip olarak karar verermeden ilerledik, vakit kaybı oldu
+
 
 -**Diğer Notlar**:
 - N/A
@@ -81,6 +91,8 @@ Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için g
 
 # Sprint 2
 
+- **Sprint board update**: Sprint board screenshotları: 
+https://prnt.sc/MXW5ik0b6Re6
 
 ---
 
