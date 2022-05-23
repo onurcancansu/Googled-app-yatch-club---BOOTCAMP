@@ -100,7 +100,7 @@ Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 380 puan
 Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. Story'ler yapılacak işlere (task'lere) bölünmüştür.
 
 Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantıları word olarak Readme'de tarafımızdan paylaşılmaktadır: 
-![Sprint 2 Daily Scrum Chats](https://docs.google.com/spreadsheets/d/1eOQ0veE75RmbI6FUtaQ_B-5pbotKHnJDzyk09ecIYJg/edit?usp=sharing)
+Sprint 2 Daily Scrum Chats: https://docs.google.com/spreadsheets/d/1eOQ0veE75RmbI6FUtaQ_B-5pbotKHnJDzyk09ecIYJg/edit?usp=sharing
 ![Sprint 2 Daily Scrum Sample](https://github.com/onurcancansu/Googled-app-yatch-club---BOOTCAMP/blob/main/Daily%20Sample%20-%20Sprint%202.png)
 
 
