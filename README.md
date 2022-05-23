@@ -93,23 +93,40 @@ Alınan kararlar: Tasarım ve kodlama taskları tamamlandı. Tasarım ve kodun �
 
 Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
-Sprint içinde tamamlanması tahmin edilen puan: 166 Puan
+Sprint içinde tamamlanması tahmin edilen puan: 139 Puan
 
-Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. Story'ler yapılacak işlere (task'lere) bölünmüştür.
 
-Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats] https://docs.google.com/spreadsheets/d/1eOQ0veE75RmbI6FUtaQ_B-5pbotKHnJDzyk09ecIYJg/edit?usp=sharing
+Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantıları word olarak Readme'de tarafımızdan paylaşılmaktadır: 
+![Sprint 2 Daily Scrum Chats](https://docs.google.com/spreadsheets/d/1eOQ0veE75RmbI6FUtaQ_B-5pbotKHnJDzyk09ecIYJg/edit?usp=sharing)
+![Sprint 2 Daily Scrum Sample](https://github.com/onurcancansu/Googled-app-yatch-club---BOOTCAMP/blob/main/Daily%20Sample%20-%20Sprint%202.png)
+
 
 - **Sprint board update**: Sprint board screenshotları: 
-https://prnt.sc/MXW5ik0b6Re6
+![Backlog 2](https://github.com/onurcancansu/Googled-app-yatch-club---BOOTCAMP/blob/main/Sprint%202%20Jira.png) 
 
 Ürün Durumu: Ekran görüntüleri
+  ![Screenshot 1](https://github.com/onurcancansu/Googled-app-yatch-club---BOOTCAMP/blob/main/level%202%20design.jpeg)
+  ![Screenshot 2](https://github.com/onurcancansu/Googled-app-yatch-club---BOOTCAMP/blob/main/level%20map.jpeg)
+  ![Screenshot 3](https://github.com/onurcancansu/Googled-app-yatch-club---BOOTCAMP/blob/main/portal.jpeg)
+  ![Screenshot 4](https://github.com/onurcancansu/Googled-app-yatch-club---BOOTCAMP/blob/main/hikaye%20after%20effects.jpeg)
 
-Sprint Review: 
+
+- **Sprint Review**: 
+Alınan kararlar: 1. ve 2. levellar için level design, tasarım ve kodlama taskları tamamlandı. Önümüzdeki sprintte; tasarım ve kodun birleştirilmesine, oyunun testlerinin baştan sona yapılmasına ve ekstra puanlar için çalışma yapılmasına karar verildi. Sprint Review katılımcıları: Tüm ekip
+
+- **Sprint Retrospective:**
+  - **Neyi iyi yaptık?**
+  -   Verilen görevler tamamlandı
+  -   Uyumlu, iletişimi kuvvetli bir ekibiz.
+  -   Bu sprintte daha sık bir araya geldik, ikili veya grup olarak çalışmalar yaptık.
+  - **Gelişim Noktaları**
+  -   Tasarımları 1-2 gün öncesinden bitirmek ve kodlama için ekibe aktarmak lazımdı.
+  -   İlk başlarda konuştuğumuz bazı hedeflerden, kapsamın yetişmeme ihtimali sebebiyle vazgeçmek zorunda kaldık.
 
 -Diğer Notlar:
-
 N/A
 
 
