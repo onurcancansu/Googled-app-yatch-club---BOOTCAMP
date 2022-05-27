@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.2D.Animation.Samples.Runtime", "Unity.2D.Animation.Samples.Runtime.csproj", "{8c24f354-7e55-0d1f-3cd5-5a01d18331aa}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.2D.Animation.Samples.Dependency", "Unity.2D.Animation.Samples.Dependency.csproj", "{32f4144a-8988-a4b4-ea96-ebb30d18bcaf}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.2D.Animation.Samples.Editor", "Unity.2D.Animation.Samples.Editor.csproj", "{53e6fa8b-edcf-f021-f04d-44da78fbe5f6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8c24f354-7e55-0d1f-3cd5-5a01d18331aa}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8c24f354-7e55-0d1f-3cd5-5a01d18331aa}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32f4144a-8988-a4b4-ea96-ebb30d18bcaf}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32f4144a-8988-a4b4-ea96-ebb30d18bcaf}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53e6fa8b-edcf-f021-f04d-44da78fbe5f6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53e6fa8b-edcf-f021-f04d-44da78fbe5f6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
