@@ -175,10 +175,10 @@ N/A
 ---
 
 **Oyun Hakkında Genel Bilgiler**
-Unity Versiyonu: 2021.3.1f1
-Tasarımlar: Oyunun tüm tasarımları, assetleri, videolar ve sesler tamamen ekip üyelerimiz tarafından geliştirilmiştir. Joystick dışında hiçbir hazır asset kullanılmamıştır.
-Bölümler: Oyun, çok bölümlü bir yapıya uygun bir hikayeyle geliştirilmiştir. 3 sprint içinde oyunun hikayesinin anlatıldığı giriş bölümü, ilk 2 bölüm ve boss geliştirmeleri yapılmıştır. İlerleyen zamanlarda yeni bölümlerin geliştirilmesi hedeflenmektedir. İlerleyen bölümlerin sonunda Mete'nin babasını kurtaracağı şekilde hikayenin sonlanması planlanmaktadır.
-İş Modeli: Oyun indirme, Play Store üzerinden ücretsiz gerçekleştirilecektir. Gelir, reklamlar ve pazaryeri üzerinden asset satışı ile sağlanacaktır. 
+- Unity Versiyonu: 2021.3.1f1
+- Tasarımlar: Oyunun tüm tasarımları, assetleri, videolar ve sesler tamamen ekip üyelerimiz tarafından geliştirilmiştir. Joystick dışında hiçbir hazır asset kullanılmamıştır.
+- Bölümler: Oyun, çok bölümlü bir yapıya uygun bir hikayeyle geliştirilmiştir. 3 sprint içinde oyunun hikayesinin anlatıldığı giriş bölümü, ilk 2 bölüm ve boss geliştirmeleri yapılmıştır. İlerleyen zamanlarda yeni bölümlerin geliştirilmesi hedeflenmektedir. İlerleyen bölümlerin sonunda Mete'nin babasını kurtaracağı şekilde hikayenin sonlanması planlanmaktadır.
+- İş Modeli: Oyun indirme, Play Store üzerinden ücretsiz gerçekleştirilecektir. Gelir, reklamlar ve pazaryeri üzerinden asset satışı ile sağlanacaktır. 
 
 
 **Linkler:**
