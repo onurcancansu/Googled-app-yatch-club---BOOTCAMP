@@ -1,7 +1,7 @@
-# Googled-app-yatch-club---BOOTCAMP
+# GGames---BOOTCAMP
 # **Takım İsmi**
 
-Googled App Yatch Club
+GGames Corp
 
 # Ürün İle İlgili Bilgiler
 
@@ -135,4 +135,53 @@ N/A
 
 # Sprint 3
 
+Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+Sprint içinde tamamlanması tahmin edilen puan: 205 Puan
+
+Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+
+Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. Story'ler yapılacak işlere (task'lere) bölünmüştür.
+
+Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantıları word olarak Readme'de tarafımızdan paylaşılmaktadır: 
+Sprint 3 Daily Scrum Chats: https://docs.google.com/spreadsheets/d/1eOQ0veE75RmbI6FUtaQ_B-5pbotKHnJDzyk09ecIYJg/edit?usp=sharing
+![Sprint 3 Daily Scrum Sample](https://github.com/onurcancansu/Googled-app-yatch-club---BOOTCAMP/blob/main/Sprint3%20Daily%20Sample.png)
+
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 3](https://github.com/onurcancansu/Googled-app-yatch-club---BOOTCAMP/blob/main/Sprint%203%20Backlog.png) 
+
+Ürün Durumu: Ekran görüntüleri
+  ![Screenshot 1](https://github.com/onurcancansu/Googled-app-yatch-club---BOOTCAMP/blob/main/start.jpeg)
+  ![Screenshot 2](https://github.com/onurcancansu/Googled-app-yatch-club---BOOTCAMP/blob/main/levels.jpeg)
+  ![Screenshot 3](https://github.com/onurcancansu/Googled-app-yatch-club---BOOTCAMP/blob/main/icon.jpeg)
+  ![Screenshot 4](https://github.com/onurcancansu/Googled-app-yatch-club---BOOTCAMP/blob/main/logosb.png)
+
+
+- **Sprint Review**: 
+Alınan kararlar: Bu sprintte tasarım ve kodlar birleştirildi. Müzikler geliştirildi ve oyuna eklendi. Ad mob, oyun optimizasyonu gibi ekstra puanlar için çalışmalar yapıldı. Sprint Review katılımcıları: Tüm ekip
+
+- **Sprint Retrospective:**
+  - **Neyi iyi yaptık?**
+  -   Verilen görevler tamamlandı
+  -   Uyumlu, iletişimi kuvvetli bir ekibiz.
+  -   Bu sprintte daha sık bir araya geldik, ikili veya grup olarak çalışmalar yaptık.
+  - **Gelişim Noktaları**
+  -   İlk başlarda konuştuğumuz bazı hedeflerden, kapsamın yetişmeme ihtimali sebebiyle vazgeçmek zorunda kaldık.
+
+-Diğer Notlar:
+N/A
+
 ---
+
+**Oyun Hakkında Genel Bilgiler**
+Unity Versiyonu: 2021.3.1f1
+Tasarımlar: Oyunun tüm tasarımları, assetleri, videolar ve sesler tamamen ekip üyelerimiz tarafından geliştirilmiştir. Joystick dışında hiçbir hazır asset kullanılmamıştır.
+Bölümler: Oyun, çok bölümlü bir yapıya uygun bir hikayeyle geliştirilmiştir. 3 sprint içinde oyunun hikayesinin anlatıldığı giriş bölümü, ilk 2 bölüm ve boss geliştirmeleri yapılmıştır. İlerleyen zamanlarda yeni bölümlerin geliştirilmesi hedeflenmektedir. İlerleyen bölümlerin sonunda Mete'nin babasını kurtaracağı şekilde hikayenin sonlanması planlanmaktadır.
+İş Modeli: Oyun indirme, Play Store üzerinden ücretsiz gerçekleştirilecektir. Gelir, reklamlar ve pazaryeri üzerinden asset satışı ile sağlanacaktır. 
+
+
+**Linkler:**
+Miro - Taslak Tasarımlar: https://miro.com/app/board/uXjVO6UD-Gw=/
+Oyun Videosu: <Video Linki Eklenecek>
+APK - İndirme Linki: <Drive Linki Eklenecek>
