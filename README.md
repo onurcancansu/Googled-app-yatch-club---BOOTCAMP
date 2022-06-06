@@ -174,6 +174,10 @@ N/A
 
 ---
 
+**ÖNEMLİ NOT**
+Bu repoya kod pushlarken hata ile karşılaştık. Sorunu henüz çözemediğimiz için sıfırdan bir repo yaratıp oyunu oraya pushlamak durumunda kaldık.
+Oyunu bu repo üzerinden inceleyebilirsiniz: https://github.com/onurcancansu/GGames-BOOTCAMP
+
 **Oyun Hakkında Genel Bilgiler**
 - Unity Versiyonu: 2021.3.1f1
 - Tasarımlar: Oyunun tüm tasarımları, assetleri, videolar ve sesler tamamen ekip üyelerimiz tarafından geliştirilmiştir. Joystick dışında hiçbir hazır asset kullanılmamıştır.
