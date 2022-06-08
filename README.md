@@ -186,6 +186,6 @@ Oyunu bu repo üzerinden inceleyebilirsiniz: https://github.com/onurcancansu/GGa
 
 
 **Linkler:**
-Miro - Taslak Tasarımlar: https://miro.com/app/board/uXjVO6UD-Gw=/
-Oyun Videosu: <Video Linki Eklenecek>
-APK - İndirme Linki: <Drive Linki Eklenecek>
+- Design Document: https://drive.google.com/file/d/1clylZ6Xqc2eLY8REw3ZIh-Xz1FqBNUZI/view?usp=sharing
+- Oyun Videosu: https://youtu.be/r0odnmSHJE4
+- APK - İndirme Linki: https://drive.google.com/file/d/1heV5upF-gSxpUEMGeUoG29FR7IKF37Qz/view?usp=sharing
